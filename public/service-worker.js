@@ -2,12 +2,12 @@ console.log("Hi from your service-worker.js file!");
 
 const FILES_TO_CACHE = [
     "/",
-    "/index.html",
+    "/db.js",
     "/index.js",
     "/manifest.json",
-    "/style.css",
-    "/icon_192x192.png",
-    "/icon_512x512.png",
+    "/styles.css",
+    "icons/icon_192x192.png",
+    "icons/icon_512x512.png",
  
   ];
   
