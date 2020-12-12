@@ -15,7 +15,8 @@
  
   
   
-  # Description 📝
+  # Description 
+📝
 This is a Budget Tracker application to allow for offline access and functionality.
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
@@ -64,7 +65,7 @@ This application works both online and offline. If you enter a transaction offli
 You can also install a manifest to run the application offline.
 To run this app via VS code, run <code>npm start</code>, and go http://localhost:3000.
 
-![workout](public/images/workoutpage.jpg);
+![Budget](public/images/Budget.jpg);
 
 
 # Installation 
