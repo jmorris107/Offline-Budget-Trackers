@@ -8,9 +8,10 @@
 
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
   ![jQuery badge](https://img.shields.io/badge/jQuery-blue.svg)
-  ![node.js badge](https://img.shields.io/badge/node.js-green.svg)
+  ![Node.js badge](https://img.shields.io/badge/Node.js-green.svg)
   ![express.js](https://img.shields.io/badge/express.js-red.svg)
-  ![json](https://img.shields.io/badge/json-orange.svg)
+  ![JSON](https://img.shields.io/badge/JSON-orange.svg)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-green.svg)
 
  
   
