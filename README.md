@@ -1,4 +1,4 @@
-# Offline Budget Trackers
+# 💵 Offline Budget Trackers 💵
 
 ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
   ![repo size badge](https://img.shields.io/badge/repo.size-6.9MB-blue.svg)
