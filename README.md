@@ -12,8 +12,8 @@
   ![express.js](https://img.shields.io/badge/express.js-red.svg)
   ![JSON](https://img.shields.io/badge/JSON-orange.svg)
   ![MongoDB](https://img.shields.io/badge/MongoDB-green.svg)
-  ![Service Worker](https://img.shields.io/badge/ServiceWorker-light-purple.svg)
-  ![manifest.js](https://img.shields.io/badge/manifest.js-light-blue.svg)
+  ![Service Worker](https://img.shields.io/badge/ServiceWorker-lightpurple.svg)
+  ![manifest.js](https://img.shields.io/badge/manifest.js-lightblue.svg)
 
  
   
